@@ -1,4 +1,4 @@
-##Lawn-Cutting-Price-Estimation##
+## Lawn-Cutting-Price-Estimation
 
 The Lawn Price Calculator GUI is a comprehensive tool that calculates and estimates the cost of lawn cutting services. It takes into account various factors such as distance from the lawn cutting business, shape of the lawn, length, and width.
 
